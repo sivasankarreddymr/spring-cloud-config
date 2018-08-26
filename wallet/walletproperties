@@ -1,0 +1,5 @@
+    max transactions  = 10
+		max amount that can be added = 5000
+		max amount that can be withdrawn = 2000
+    number of transactions to show =   5
+		default balance = 100
